@@ -6,7 +6,7 @@ import pandas as pd
 
 
 
-my_api='RGAPI-ffb91676-bd92-4e31-8ea6-762d7adff5f9'
+my_api='your api'
 rank= ['IV', 'III', 'II', 'I']
 
 def get_puuid(summoner_id):
